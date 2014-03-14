@@ -1,3 +1,9 @@
 name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+
+
+lychee:
+  url: http://electerious.com/lychee_demo/
+  album_title_tag: h1
+  link_big_to: img
